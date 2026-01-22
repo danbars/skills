@@ -7,6 +7,7 @@ description: Use when an email draft exists but the subject line is unclear, too
 
 ## Overview
 Create a small set of subject line options that match the email’s intent and tone without adding new commitments or changing meaning.
+<!--assistant C-->
 
 ## When to Use
 - You have the body (or a rough draft) but no subject line yet
